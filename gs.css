@@ -31,7 +31,7 @@
     font-size: 17px;
 }
 .ANDREW{
-    color: beige;
+    color: rgb(245, 245, 9);
     font-size: 17px;
 }
 .ELLEN{
@@ -42,11 +42,65 @@
     color: crimson;
     font-size: 17px;
 }
-.MISS JOYCE{
+.MISSJOYCE{
     color: violet;
     font-size: 17px;
 }
 .FARDY{
     color: chartreuse;
     font-size: 17px;
+}
+
+
+.table-style{
+    border: 7px;
+    background-color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    width: 60%;
+    align-items: center;
+    border: red;
+}
+
+.ANDREW:hover{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    color:black;
+    background-color: rgb(4, 73, 73);
+}
+.ELLEN:hover{
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: chartreuse;
+    background-color: crimson;
+}
+.FARDY:hover{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:chocolate;
+    background-color: cyan;
+}
+.JOEL:hover{
+    font-size: 17px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: aquamarine;
+    background-color: darkgreen;
+}
+.MISSJOYCE{
+    color: darkkhaki;
+    background-color: white;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.HYACINTH:hover{
+
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+    color: violet;
+    background-color: white;
+}
+.MRS.DELANE{
+    font-size: 17px;
+    font-family: cursive;
+    color: yellowgreen;
+    background-color: tomato;
 }
