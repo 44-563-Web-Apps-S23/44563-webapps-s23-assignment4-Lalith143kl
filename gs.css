@@ -66,41 +66,63 @@
     font-size: 17px;
     color:black;
     background-color: rgb(4, 73, 73);
+    filter: blur(1px);
+    box-shadow: 5px 10px #888888;
+    border-color: coral;
 }
 .ELLEN:hover{
     font-size: 17px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: chartreuse;
     background-color: crimson;
+    filter: blur(1px);
+    box-shadow: 5px 10px #888888;
+    border-color: coral;
 }
 .FARDY:hover{
     font-size: 17px;
     font-family: Arial, Helvetica, sans-serif;
     color:chocolate;
     background-color: cyan;
+    filter: blur(1px);
+    box-shadow: 5px 10px #888888;
+    border-color: coral;
 }
 .JOEL:hover{
     font-size: 17px;
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: aquamarine;
     background-color: darkgreen;
+    filter: blur(1px);
+    box-shadow: 5px 10px #888888;
+    border-color: coral;
 }
-.MISSJOYCE{
-    color: darkkhaki;
-    background-color: white;
+.MISSJOYCE:hover{
     font-size: 17px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkkhaki;
+    background-color: rgb(160, 59, 59);
+    filter: blur(1px); 
+    box-shadow: 5px 10px #888888;
+    border-color: coral;
+
 }
 .HYACINTH:hover{
 
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 17px;
     color: violet;
-    background-color: white;
+    background-color: rgb(105, 7, 7);
+    filter: blur(1px);
+    box-shadow: 5px 10px black;
+    border-color: blue;
 }
-.MRS.DELANE{
+.MRS.DELANE:hover{
     font-size: 17px;
     font-family: cursive;
     color: yellowgreen;
-    background-color: tomato;
+    background-color: rgb(243, 181, 170);
+    filter: blur(1px); 
+    box-shadow: 5px 10px #888888;
+    border-color: coral;
 }
