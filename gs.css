@@ -9,7 +9,6 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
     background-color: rgb(230, 241, 241);
-
 }
 .name{
     font-size: 30px;
@@ -17,7 +16,7 @@
     color: black;
 }
 
-.direction:hover{ color: burlywood; background-color: blueviolet;}
+.direction:hover{ color: burlywood; background-color: blueviolet;}7
 .QUIRKE{
     color: aquamarine;
     font-size: 17px;
@@ -54,11 +53,13 @@
 
 .table-style{
     border: 7px;
-    background-color: blue;
+    background-color: rgb(173, 173, 250);
+    border-collapse: collapse;
     font-family: 'Times New Roman', Times, serif;
     width: 60%;
     align-items: center;
     border: red;
+    padding: 15px;
 }
 
 .ANDREW:hover{
@@ -125,4 +126,17 @@
     filter: blur(1px); 
     box-shadow: 5px 10px #888888;
     border-color: coral;
+}
+
+
+
+
+.material-symbols-outlined {
+    size: 80px;
+   font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+
 }
